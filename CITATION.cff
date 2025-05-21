@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Schuhl"
+  given-names: "Haley"
+  orcid: "https://orcid.org/0000-0002-8825-8297"
+- family-names: "Ellis"
+  given-names: "Martel"
+  orcid: "https://orcid.org/"
+title: "Tripsacum Seedhead Image Analysis Tutorial"
+version: 2.0.4
+doi: 
+date-released: 2025
+url: https://github.com/danforthcenter/plantcv-tutorial-tripsacum-seedhead"
