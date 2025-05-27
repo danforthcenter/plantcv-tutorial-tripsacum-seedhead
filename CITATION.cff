@@ -1,14 +1,36 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Schuhl"
-  given-names: "Haley"
+- family-names: Schuhl
+  given-names: Haley
+  affiliation: Donald Danforth Plant Science Center
   orcid: "https://orcid.org/0000-0002-8825-8297"
-- family-names: "Ellis"
-  given-names: "Martel"
+- family-names: Ellis
+  given-names: Martel
+  affiliation: The University of Kansas
+  orcid: "https://orcid.org/0000-0001-7761-7197"
+- family-names: Isabella
+  given-names: Vergara
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/"
+- family-names: Molly
+  given-names: Hanlon
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/"
+- family-names: Stella
+  given-names: Woeltjen
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/"
+- family-names: Allison
+  given-names: Miller
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/"
+- family-names: Maggie
+  given-names: Wagner
+  affiliation: The University of Kansas
   orcid: "https://orcid.org/"
 title: "Tripsacum Seedhead Image Analysis Tutorial"
-version: 2.0.4
+version: 1.0.0
 doi: 
 date-released: 2025
 url: https://github.com/danforthcenter/plantcv-tutorial-tripsacum-seedhead"
