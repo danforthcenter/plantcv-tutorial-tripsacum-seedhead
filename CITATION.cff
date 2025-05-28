@@ -9,26 +9,34 @@ authors:
   given-names: Martel
   affiliation: The University of Kansas
   orcid: "https://orcid.org/0000-0001-7761-7197"
-- family-names: Isabella
-  given-names: Vergara
+- family-names: Vergara
+  given-names: Isabella
   affiliation: Donald Danforth Plant Science Center
   orcid: "https://orcid.org/"
-- family-names: Molly
-  given-names: Hanlon
+- family-names: Hanlon
+  given-names: Molly
   affiliation: Donald Danforth Plant Science Center
   orcid: "https://orcid.org/"
-- family-names: Stella
-  given-names: Woeltjen
+- family-names: Woeltjen
+  given-names: Stella
   affiliation: Donald Danforth Plant Science Center
   orcid: "https://orcid.org/"
-- family-names: Allison
-  given-names: Miller
+- family-names: Miller
+  given-names: Allison
   affiliation: Donald Danforth Plant Science Center
   orcid: "https://orcid.org/"
-- family-names: Maggie
-  given-names: Wagner
+- family-names: Wagner
+  given-names: Maggie
   affiliation: The University of Kansas
   orcid: "https://orcid.org/"
+- family-names: Bostic
+  given-names: Paige
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0009-0008-7813-7708"
+- family-names: Brown
+  given-names: Keely
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/ "
 title: "Tripsacum Seedhead Image Analysis Tutorial"
 version: 1.0.0
 doi: 
