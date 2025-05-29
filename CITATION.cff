@@ -12,7 +12,6 @@ authors:
 - family-names: Vergara
   given-names: Isabella
   affiliation: Donald Danforth Plant Science Center
-  orcid: "https://orcid.org/"
 - family-names: Hanlon
   given-names: Molly
   affiliation: Donald Danforth Plant Science Center
@@ -23,12 +22,12 @@ authors:
   orcid: "https://orcid.org/0009-0003-8790-065X"
 - family-names: Miller
   given-names: Allison
-  affiliation: Donald Danforth Plant Science Center
-  orcid: "https://orcid.org/"
+  affiliation: Saint Louis University, Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-2722-9361"
 - family-names: Wagner
   given-names: Maggie
   affiliation: The University of Kansas
-  orcid: "https://orcid.org/"
+  orcid: "https://orcid.org/0000-0002-6924-7226"
 - family-names: Bostic
   given-names: Paige
   affiliation: Donald Danforth Plant Science Center
@@ -36,7 +35,7 @@ authors:
 - family-names: Brown
   given-names: Keely
   affiliation: Donald Danforth Plant Science Center
-  orcid: "https://orcid.org/ "
+  orcid: "https://orcid.org/0000-0002-5371-5830"
 title: "Tripsacum Seedhead Image Analysis Tutorial"
 version: 1.0.0
 doi: 
