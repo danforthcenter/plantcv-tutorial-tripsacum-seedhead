@@ -11,7 +11,5 @@ Try our interactive seedhead analysis tutorial. Learn how to extract size tripsa
 seed, seedhead, seedhead analysis, shape analysis, tripsacum
 
  
-## Citations
-
-Optional.
-
+## Citation
+10.5281/zenodo.17081098
